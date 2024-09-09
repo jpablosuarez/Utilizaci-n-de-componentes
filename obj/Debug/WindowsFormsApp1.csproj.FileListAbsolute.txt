@@ -1,0 +1,44 @@
+C:\Users\Public\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Public\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Public\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Public\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Public\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Public\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Public\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Public\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Public\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Public\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Public\WindowsFormsApp1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Public\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Public\WindowsFormsApp1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Public\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Public\WindowsFormsApp1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Public\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Public\WindowsFormsApp1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Public\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Public\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Public\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MediaPlayer.resources
+C:\Users\Public\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PDF.resources
+C:\Users\Public\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Web.resources
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MediaPlayer.resources
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PDF.resources
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Web.resources
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Juan Pablo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.AcroPDFLib.dll
